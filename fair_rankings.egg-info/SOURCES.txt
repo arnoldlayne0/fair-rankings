@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+fair_rankings/__init__.py
+fair_rankings/algorithms.py
+fair_rankings/data.py
+fair_rankings/simulations.py
+fair_rankings.egg-info/PKG-INFO
+fair_rankings.egg-info/SOURCES.txt
+fair_rankings.egg-info/dependency_links.txt
+fair_rankings.egg-info/requires.txt
+fair_rankings.egg-info/top_level.txt
+tests/test_algorithms.py
