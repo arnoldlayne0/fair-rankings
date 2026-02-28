@@ -1,6 +1,6 @@
 # Fair Rankings
 
-Algorithms for fairness-constrained ranking maximisation, originally developed as part of an MSc dissertation at the London School of Economics (Operations Research, 2019).
+Algorithms for fairness-constrained ranking maximisation, originally developed as part of an dissertation at the London School of Economics (MSc Operations Research, 2018).
 
 ## Problem
 
